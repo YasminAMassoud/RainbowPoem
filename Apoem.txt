@@ -2,6 +2,8 @@ The rainbow for the unicorn
 purple 
 pink 
 orange 
+kohly
+pink
 green
 red 
 yellow 
