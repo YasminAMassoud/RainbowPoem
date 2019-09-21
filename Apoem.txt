@@ -1,4 +1,5 @@
 The rainbow for the unicorn for earth day
+this fixes #3
 purple 
 pink 
 orange 
